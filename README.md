@@ -1,9 +1,9 @@
 # steven_fan_bot
 on9 jai steven fan
 
-#Install
+# Install
 npm install
 node index.js
 
-#Usage
+# Usage
 set your bot privacy first
