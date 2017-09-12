@@ -1,0 +1,14 @@
+{
+  "name": "steve_fan_bot",
+  "version": "1.0.0",
+  "description": "18 y.o. coder from Hong Kong; https://blog.stevefan1999.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bu5hit",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.28.0"
+  }
+}
