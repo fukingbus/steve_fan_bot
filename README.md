@@ -1,4 +1,4 @@
-# steven_fan_bot
+# steve_fan_bot
 on9 jai steven fan
 
 # Install
